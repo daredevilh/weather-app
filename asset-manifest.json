@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.ee9cc24a.chunk.css",
+    "main.js": "/react-app/static/js/main.20419dfa.chunk.js",
+    "main.js.map": "/react-app/static/js/main.20419dfa.chunk.js.map",
+    "runtime-main.js": "/react-app/static/js/runtime-main.1d36c90c.js",
+    "runtime-main.js.map": "/react-app/static/js/runtime-main.1d36c90c.js.map",
+    "static/js/2.713d3089.chunk.js": "/react-app/static/js/2.713d3089.chunk.js",
+    "static/js/2.713d3089.chunk.js.map": "/react-app/static/js/2.713d3089.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "precache-manifest.fb21993aa0c1ef93938e174ce07738a0.js": "/react-app/precache-manifest.fb21993aa0c1ef93938e174ce07738a0.js",
+    "service-worker.js": "/react-app/service-worker.js",
+    "static/css/main.ee9cc24a.chunk.css.map": "/react-app/static/css/main.ee9cc24a.chunk.css.map",
+    "static/js/2.713d3089.chunk.js.LICENSE.txt": "/react-app/static/js/2.713d3089.chunk.js.LICENSE.txt",
+    "static/media/cloud.png": "/react-app/static/media/cloud.5f13fd1c.png",
+    "static/media/fog.png": "/react-app/static/media/fog.391b3384.png",
+    "static/media/moon.png": "/react-app/static/media/moon.84545c28.png",
+    "static/media/preloader.svg": "/react-app/static/media/preloader.032a2ad9.svg",
+    "static/media/rain.png": "/react-app/static/media/rain.139ecb95.png",
+    "static/media/sleet.png": "/react-app/static/media/sleet.52487b0c.png",
+    "static/media/snow.png": "/react-app/static/media/snow.6b1f2261.png",
+    "static/media/sun.png": "/react-app/static/media/sun.8d8c76e5.png",
+    "static/media/thunderstorm.png": "/react-app/static/media/thunderstorm.2e14dd6e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d36c90c.js",
+    "static/js/2.713d3089.chunk.js",
+    "static/css/main.ee9cc24a.chunk.css",
+    "static/js/main.20419dfa.chunk.js"
+  ]
+}
